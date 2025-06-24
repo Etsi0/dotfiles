@@ -1,0 +1,10 @@
+background = #292d3e
+background-opacity = 0.9
+
+confirm-close-surface = false
+
+font-family = "JetBrainsMono Nerd Font"
+font-size = 13
+
+window-padding-x = 16
+window-padding-y = 24,8
