@@ -1,6 +1,17 @@
 # Dotfiles
 
-A collection of my personal configuration files managed using a bare git repo.
+This is a collection of all my personal configuration files managed using a [bare git repo](https://www.atlassian.com/git/tutorials/dotfiles).
+
+## Install:
+
+1. Clone the repo
+```bash
+git clone --bare git@github.com:Etsi0/dotfiles.git
+```
+2. Hide files we are not explicitly tracking yet
+```bash
+config config --local status.showUntrackedFiles no
+```
 
 ## Usage:
 
