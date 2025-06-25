@@ -12,6 +12,7 @@ CONFIG_TARGETS="
 	$HOME/.gitignore
 	$HOME/autoGit.sh
 	$HOME/README.md
+	$HOME/.vscode/settings.json
 "
 
 #==================================================
