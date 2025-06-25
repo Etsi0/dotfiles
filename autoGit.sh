@@ -4,12 +4,14 @@
 # Files to add to git
 #==================================================
 CONFIG_TARGETS="
-	$HOME/.bashrc
-	$HOME/autoGit.sh
 	$HOME/.config/quickshell/
 	$HOME/.config/hypr/
 	$HOME/.config/ghostty/
 	$HOME/.config/rofi/
+	$HOME/.bashrc
+	$HOME/.gitignore
+	$HOME/autoGit.sh
+	$HOME/README.md
 "
 
 #==================================================
